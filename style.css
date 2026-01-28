@@ -5,9 +5,10 @@ body {
 .hero {
   height: 100vh;
   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-              url('../assets/hero.png') center/cover no-repeat;
+              url('hero.png') center/cover no-repeat;
 }
 
 section h2 {
   font-weight: 700;
 }
+
